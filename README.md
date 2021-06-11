@@ -44,6 +44,10 @@
 | `git merge [source branch] [target branch]` | Merge a branch into a target branch |
 | `git stash` | Stash changes in a dirty working directory |
 | `git stash clear` | Remove all stashed entries |
+| `git fetch [remote]` | Fetch all of the branches from the repository |
+| `git fetch [remote] [branch]`| only fetch the specified branch|
+| `git fetch --all` |  fetches all registered remotes and their branches|
+
 
 ### Sharing & Updating Projects
 
