@@ -70,4 +70,5 @@
 
 
 References: [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands/blob/master/README.md) 
+<br/>
 [Eduction/github](https://education.github.com/git-cheat-sheet-education.pdf)
