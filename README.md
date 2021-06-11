@@ -7,17 +7,12 @@
 | `git config --global user.name "username"` | set a name that is identifiable for credit when review version history |
 | `git config --global user.email "valid-mail"` | set a name that is identifiable for credit when review version history |
 
-### Getting & Creating Projects
+### Getting & Basic Snapshotting
 
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
-
-### Basic Snapshotting
-
-| Command | Description |
-| ------- | ----------- |
 | `git status` | Check status |
 | `git add [file-name.txt]` | Add a file to the staging area |
 | `git add -A` | Add all new and changed files to the staging area |
@@ -72,3 +67,7 @@
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+
+References: [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands/blob/master/README.md) 
+[Eduction/github](https://education.github.com/git-cheat-sheet-education.pdf)
